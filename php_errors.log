@@ -1,0 +1,49 @@
+[02-Dec-2017 22:06:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'b10d78d16d1281'@'%' to database 'zipcodeloginapi'' in /home/ubuntu/workspace/lab8/api.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/lab8/api.php(12): PDO->__construct('mysql:host=us-c...', 'b10d78d16d1281', '12f943a2')
+#1 /home/ubuntu/workspace/lab8/api.php(25): getDatabaseConnection()
+#2 /home/ubuntu/workspace/lab8/api.php(37): getUsersThatMatchUserName()
+#3 {main}
+  thrown in /home/ubuntu/workspace/lab8/api.php on line 12
+[02-Dec-2017 22:08:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'b10d78d16d1281'@'%' to database 'zipcodeloginapi'' in /home/ubuntu/workspace/lab8/api.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/lab8/api.php(12): PDO->__construct('mysql:host=us-c...', 'b10d78d16d1281', '12f943a2')
+#1 /home/ubuntu/workspace/lab8/api.php(25): getDatabaseConnection()
+#2 /home/ubuntu/workspace/lab8/api.php(37): getUsersThatMatchUserName()
+#3 {main}
+  thrown in /home/ubuntu/workspace/lab8/api.php on line 12
+[02-Dec-2017 22:14:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'b10d78d16d1281'@'%' to database 'zipcodeloginapi'' in /home/ubuntu/workspace/lab8/api.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/lab8/api.php(12): PDO->__construct('mysql:host=us-c...', 'b10d78d16d1281', '12f943a2')
+#1 /home/ubuntu/workspace/lab8/api.php(25): getDatabaseConnection()
+#2 /home/ubuntu/workspace/lab8/api.php(37): getUsersThatMatchUserName()
+#3 {main}
+  thrown in /home/ubuntu/workspace/lab8/api.php on line 12
+[02-Dec-2017 22:14:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'b10d78d16d1281'@'%' to database 'zipcodeloginapi'' in /home/ubuntu/workspace/lab8/api.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/lab8/api.php(12): PDO->__construct('mysql:host=us-c...', 'b10d78d16d1281', '12f943a2')
+#1 /home/ubuntu/workspace/lab8/api.php(25): getDatabaseConnection()
+#2 /home/ubuntu/workspace/lab8/api.php(37): getUsersThatMatchUserName()
+#3 {main}
+  thrown in /home/ubuntu/workspace/lab8/api.php on line 12
+[02-Dec-2017 22:21:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'b10d78d16d1281'@'%' to database 'zipcodeloginapi'' in /home/ubuntu/workspace/lab8/api.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/lab8/api.php(12): PDO->__construct('mysql:host=us-c...', 'b10d78d16d1281', '12f943a2')
+#1 /home/ubuntu/workspace/lab8/api.php(25): getDatabaseConnection()
+#2 /home/ubuntu/workspace/lab8/api.php(37): getUsersThatMatchUserName()
+#3 {main}
+  thrown in /home/ubuntu/workspace/lab8/api.php on line 12
+[02-Dec-2017 22:25:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'b10d78d16d1281'@'%' to database 'zipcodeloginapi'' in /home/ubuntu/workspace/lab8/api.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/lab8/api.php(12): PDO->__construct('mysql:host=us-c...', 'b10d78d16d1281', '12f943a2')
+#1 /home/ubuntu/workspace/lab8/api.php(25): getDatabaseConnection()
+#2 /home/ubuntu/workspace/lab8/api.php(37): getUsersThatMatchUserName()
+#3 {main}
+  thrown in /home/ubuntu/workspace/lab8/api.php on line 12
+[02-Dec-2017 22:25:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'b10d78d16d1281'@'%' to database 'zipcodeloginapi'' in /home/ubuntu/workspace/lab8/api.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/lab8/api.php(12): PDO->__construct('mysql:host=us-c...', 'b10d78d16d1281', '12f943a2')
+#1 /home/ubuntu/workspace/lab8/api.php(25): getDatabaseConnection()
+#2 /home/ubuntu/workspace/lab8/api.php(37): getUsersThatMatchUserName()
+#3 {main}
+  thrown in /home/ubuntu/workspace/lab8/api.php on line 12

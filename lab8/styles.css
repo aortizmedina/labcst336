@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+h1{
+      text-shadow: 2px 2px  orange;
+      font-size: 37pt;
+      color:  #3CBC8D;
+      font-family: monospace;
+      text-decoration: underline;
+}
+
+input[type=text] {
+    background-color: #3CBC8D;
+    color: white;
+}
+input[type='password'] {
+    background-color: #3CBC8D;
+    color: white;
+}
+input[type=submit] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type=text]:focus {
+    background-color: #3f66a8;
+}
+footer{
+    text-align: center;
+    color:orange;
+    font-size: smaller;
+}

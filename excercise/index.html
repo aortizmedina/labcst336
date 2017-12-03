@@ -1,0 +1,51 @@
+<html>
+    
+<head>
+    <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+
+    <script>
+        function getPokemon() {
+            
+            $.ajax({
+                
+                
+            });
+        
+            //  $.ajax({
+            //     type: "get",
+            //     url: "http://hosting.otterlabs.org/laramiguel/ajax/zip.php",
+            //     dataType: "json",
+            //     data: {
+            //         "zip_code": $("#zip").val()
+            //     },
+            //     success: function(data,status) {
+            //         console.log(data); 
+            //         $("#city").html(data.city);
+            //         $("#lon").html(data.longitude);
+            //         $("#lat").html(data.latitude);
+                    
+            //     },
+            //     complete: function(data,status) { //optional, used for debugging purposes
+            //          //alert(status);
+            //     }
+            //  });
+        }
+    </script>
+</head>
+
+
+
+<body id="dummybodyid">
+
+   <h1> Sign Up Form </h1>
+
+    <form>
+        <fieldset>
+           <legend>pokemon</legend>
+          
+            <input type="submit" value="Sign up!">
+        </fieldset>
+    </form>
+</body>
+
+</html>
